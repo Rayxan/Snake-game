@@ -1,3 +1,4 @@
+[![Github Badge](https://img.shields.io/github/last-commit/Rayxan/Snake-game)](https://img.shields.io/github/last-commit/Rayxan/Snake-game)
 # Snake-game
 Um simples jogo em C++, feito no intuito de colocar em prática alguns conceitos da linguagem.
 
